@@ -1,22 +1,22 @@
 {
-  tasks: [
+  "tasks": [
     {
       "title": "Task 1",
       "description": "A placeholder for a not started task 1",
       "dueDate": "1402/11/26",
-      "status: "not started"
+      "status": "not started"
     },
     {
       "title": "Task 2",
       "description": "This task is in progress",
       "dueDate": "1402/10/10",
-      "status: "in progress"
+      "status": "in progress"
     },
     {
       "title": "Task 3",
       "description": "This task is completed",
       "dueDate": "1402/09/05",
-      "status: "completed"
+      "status": "completed"
     }
   ]
 }
